@@ -1,5 +1,6 @@
 # TRS v1.02
-Tjedni raspored sati (TRS)\nCopyright © 2019 by Anton Vrdoljak
+Tjedni raspored sati (TRS)<br />
+Copyright © 2019 by Anton Vrdoljak
 
 https://antonvrdoljak.netlify.com/
 
