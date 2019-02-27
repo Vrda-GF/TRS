@@ -4,9 +4,9 @@ Tjedni raspored sati (TRS) <br />
 Copyright © 2019 by Anton Vrdoljak <br />
 https://antonvrdoljak.netlify.com/ <br />
 <br />
-TRS <br />
+TRS je program za izradu tjednih rasporeda sati, i namijenjen je <br />
 Osobna licenca košta __200 HRK__, odnosno __25 EUR__. <br />
-Licencu kupujete samo jednom čime trajno stječete pravo na korištenje programa.<br />
+Licencu kupujete samo jednom čime trajno stječete __trajno__ pravo na korištenje programa.<br />
 <br />
 Snimka zaslona: <br />
 ![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/img/TRSmain.png)
