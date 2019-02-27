@@ -6,6 +6,6 @@ https://antonvrdoljak.netlify.com/ <br />
 <br />
 TRS <br />
 <br />
-Snimka zaslona <br />
+Snimka zaslona: <br />
 <br />
 e-pošta: anton.vrdoljak@gmail.com<br />
