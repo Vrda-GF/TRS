@@ -10,5 +10,5 @@ Snimka zaslona: <br />
 ![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/img/TRSmain.png)
 <br />
 <br />
-preuzmi: https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/files/TRS.rar<br />
+preuzmi: ![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/files/TRS.rar)<br />
 e-pošta: anton.vrdoljak@gmail.com<br />
