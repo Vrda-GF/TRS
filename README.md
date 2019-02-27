@@ -7,5 +7,6 @@ https://antonvrdoljak.netlify.com/ <br />
 TRS <br />
 <br />
 Snimka zaslona: <br />
+![TRS](/img/TRSmain.png.png)
 <br />
 e-pošta: anton.vrdoljak@gmail.com<br />
