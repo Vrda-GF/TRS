@@ -5,7 +5,7 @@ Copyright © 2019 by Anton Vrdoljak <br />
 https://antonvrdoljak.netlify.com/ <br />
 <br />
 TRS <br />
-Osobna licenca košta _200 HRK_, odnosno 25 EUR. <br />
+Osobna licenca košta __200 HRK__, odnosno 25 EUR. <br />
 Licencu kupujete samo jednom čime trajno stječete pravo na korištenje programa.<br />
 <br />
 Snimka zaslona: <br />
