@@ -15,3 +15,4 @@ Snimka zaslona (v1.03): <br />
 <br />
 preuzmi: [TRS kao komprimiranu datoteku](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/files/TRS.rar)<br />
 e-pošta: anton.vrdoljak@gmail.com<br />
+meh
