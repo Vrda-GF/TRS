@@ -9,7 +9,7 @@ TRS je program za izradu tjednih rasporeda sati, i namijenjen je prvenstveno fak
 Osobna licenca košta __200 HRK__, odnosno __25 EUR__. <br />
 Licencu kupujete samo jednom čime __trajno__ stječete pravo na korištenje programa.<br />
 <br />
-Snimka zaslona (v1.02): <br />
+Snimka zaslona (v1.03): <br />
 ![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/img/TRSmain.png)
 <br />
 <br />
