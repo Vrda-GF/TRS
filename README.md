@@ -10,7 +10,7 @@ Osobna licenca košta __200 HRK__, odnosno __25 EUR__. <br />
 Licencu kupujete samo jednom čime __trajno__ stječete pravo na korištenje programa.<br />
 <br />
 Snimka zaslona (v1.03): <br />
-![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/img/TRSmain.png)
+![TRS](https://raw.githubusercontent.com/Vrda-GF/TRS/master/stati/img/TRSmain.png)
 <br />
 <br />
 preuzmi: [TRS kao komprimiranu datoteku](https://raw.githubusercontent.com/Vrda-GF/TRS/master/static/files/TRS.rar)<br />
